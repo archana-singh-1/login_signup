@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "archana",
+            "password": "Archana@2003",
+            "Profile": {
+                "description": "archana",
+                "D.O.B": "6 6 2003",
+                "Gender": "female",
+                "Hobbies": "singing"
+            }
+        }
+    ]
+}
